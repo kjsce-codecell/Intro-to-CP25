@@ -22,7 +22,7 @@ int main(){
     // Outputs all values stored in the set
 
     set1.erase(3);
-    //5 will be erased from the set
+    //3 will be erased from the set
 
     for(int x: set1) cout << x << '\n';
 
