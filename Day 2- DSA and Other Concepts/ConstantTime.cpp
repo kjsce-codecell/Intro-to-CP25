@@ -8,4 +8,5 @@ int main(){
     // Constant Time O(1)
     cout << "First Element : " << arr[0] <<"\n";  
     // Always takes the same time
+    return 0;
 }

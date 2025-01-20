@@ -11,4 +11,5 @@ int main(){
     }
     cout<<"\n";
     //The runtime grows proportionally with the input size
+    return 0;
 }

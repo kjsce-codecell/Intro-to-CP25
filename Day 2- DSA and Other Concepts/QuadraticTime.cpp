@@ -11,4 +11,5 @@ int main(){
         }
     }
     //The runtime grows quadratically due to nested loops
+    return 0;
 }
