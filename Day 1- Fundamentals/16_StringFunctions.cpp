@@ -2,10 +2,7 @@
 using namespace std;
 
 int main() {
-    string s;
-    cin >> s;
-    
-    //this is how you input a string
+    string s = "KJSSE";
     
     int l = s.length(); //function to calculate the length of the string
     
@@ -19,7 +16,6 @@ int main() {
     
     bool IsEmpty = s.empty(); //answer: false
     
-    s.push_back('!'); //doesn't do anything, ! is already at the end.
     s.push_back('?'); //adds a ? to the end
     
     cout << s << endl;
