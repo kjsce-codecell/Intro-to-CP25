@@ -7,15 +7,6 @@ int main() {
     cin >> a;
     cout << a << "\n";
 
-    float b;
-    cin >> b;
-    cout << b << "\n";
-    
-
-    char c;
-    cin >> c;
-    cout << c << "\n";
-
     return 0;
     }
 
